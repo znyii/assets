@@ -3,7 +3,7 @@
 namespace ZnYii\Assets\AdminLte3;
 
 use yii\web\JqueryAsset;
-use ZnYii\Base\Web\Assets\BaseAsset;
+use ZnYii\Web\Assets\BaseAsset;
 
 class AdminLteAsset extends BaseAsset
 {

@@ -2,7 +2,7 @@
 
 namespace ZnYii\Assets\FontAwesome;
 
-use ZnYii\Base\Web\Assets\BaseAsset;
+use ZnYii\Web\Assets\BaseAsset;
 
 class FontAwesomeAsset extends BaseAsset
 {

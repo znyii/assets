@@ -2,7 +2,7 @@
 
 namespace ZnYii\Assets\SourceSansPro;
 
-use ZnYii\Base\Web\Assets\BaseAsset;
+use ZnYii\Web\Assets\BaseAsset;
 
 class SourceSansProAsset extends BaseAsset
 {

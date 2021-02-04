@@ -3,7 +3,7 @@
 namespace ZnYii\Assets\Summernote;
 
 use yii\web\JqueryAsset;
-use ZnYii\Base\Web\Assets\BaseAsset;
+use ZnYii\Web\Assets\BaseAsset;
 
 class SummernoteAsset extends BaseAsset
 {

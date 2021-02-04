@@ -2,7 +2,7 @@
 
 namespace ZnYii\Assets\Jquery3;
 
-use ZnYii\Base\Web\Assets\BaseAsset;
+use ZnYii\Web\Assets\BaseAsset;
 
 class JqueryAsset extends BaseAsset
 {
